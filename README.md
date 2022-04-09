@@ -1,8 +1,7 @@
 <html>
     <title> How to be pro </title>
     <body style="font-family: sans serif;">
-    
-        <table> This is how to be pro </table>
+    <table> This is how to be pro </table>
         <header style="font-size: 50px; text allign: left; background color: blue">
          <img src="https://cdn.pixabay.com/photo/2019/04/21/04/45/cat-4143414_960_720.jpg"> How to pro! Also  click this link! https://prgamer1525.wixsite.com/scpwiki</header>
     <main>
