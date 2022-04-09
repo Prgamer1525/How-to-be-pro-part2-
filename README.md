@@ -1,5 +1,5 @@
 <html>
-    <title> How to be pro </title>
+    <h1> How to be pro </h1>
     <body style="font-family: sans serif;">
     <table> This is how to be pro </table>
         <header style="font-size: 50px; text allign: left; background color: blue">
